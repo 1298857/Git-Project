@@ -15,6 +15,7 @@ name = "my-vpc"
   tags = {
     Terraform = "true"
     Environment = "dev"
+    owner       = "Gourav Ajmani"
   }
   
 }
